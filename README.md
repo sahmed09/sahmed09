@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hey there, I'm Shihab 👋
+<img align="right" alt="GIF" src="https://github.com/ShihabAhmed09/ShihabAhmed09/blob/main/code.gif?raw=true" width="500" height="320"/>
 
 <!--
 **ShihabAhmed09/ShihabAhmed09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
