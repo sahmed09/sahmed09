@@ -1,14 +1,8 @@
-	
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><br><br>This is Md Shihab Uddin</h1>
-## Hey there, I'm Shihab 👋
+# Hi there 👋
+
+I'm Shihab from Bangladesh and I'm a Web Developer (Back-End). I really enjoy learning languages and framework like Django and Django Rest Framework.
+
 <img align="right" alt="GIF" src="https://github.com/ShihabAhmed09/ShihabAhmed09/blob/main/code.gif?raw=true" width="400" height="280"/>
-
-## I'm a Back-End Developer (Django Developer)!!
-
-<!--
-**ShihabAhmed09/ShihabAhmed09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
