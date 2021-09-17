@@ -15,6 +15,7 @@ I'm Shihab from Bangladesh and I'm a Web Developer (Back-End). I really enjoy le
 
 - ⚡ Fun fact: I don't know how to swim.
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShihabAhmed09)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShihabAhmed09&show_icons=true)  
@@ -24,3 +25,10 @@ I'm Shihab from Bangladesh and I'm a Web Developer (Back-End). I really enjoy le
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShihabAhmed09)  
 
 ![Profile views](https://gpvc.arturio.dev/ShihabAhmed09)  
+
+	
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ShihabAhmed09">
+</a>
+<a href="https://github.com/ShihabAhmed09?tab=followers"><img src="https://img.shields.io/github/followers/ShihabAhmed09?label=Followers&style=social" alt="GitHub Badge"></a>
