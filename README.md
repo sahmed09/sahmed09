@@ -28,7 +28,7 @@ I'm Shihab from Bangladesh and I'm a Web Developer (Back-End). I really enjoy le
 
 	
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter" class="me-2">
     <img src="https://komarev.com/ghpvc/?username=ShihabAhmed09">
 </a>
 <a href="https://github.com/ShihabAhmed09?tab=followers"><img src="https://img.shields.io/github/followers/ShihabAhmed09?label=Followers&style=social" alt="GitHub Badge"></a>
