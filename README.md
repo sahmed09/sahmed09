@@ -22,6 +22,25 @@
 <p>
 <br><br>
 	
+	
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+   	<img src="https://img.icons8.com/color/48/000000/python.png"/>
+	<img src="https://img.icons8.com/color/48/000000/django.png"/>
+	<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+	<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+	<img src="https://img.icons8.com/color/48/000000/git.png"/>
+	<img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+	<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
+	<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+	<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+	<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+</p>
+
+
+<br><br>
+	
 ## 📊 My Github Stats
 
 <p align="center">
