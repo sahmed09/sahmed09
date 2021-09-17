@@ -14,3 +14,13 @@ I'm Shihab from Bangladesh and I'm a Web Developer (Back-End). I really enjoy le
 - 📫 How to reach me: **shihab.ict.cou@gmail.com**
 
 - ⚡ Fun fact: I don't know how to swim.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShihabAhmed09)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShihabAhmed09&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShihabAhmed09)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShihabAhmed09)  
+
+![Profile views](https://gpvc.arturio.dev/ShihabAhmed09)  
