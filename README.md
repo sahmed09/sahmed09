@@ -19,14 +19,16 @@ I'm Shihab from Bangladesh and I'm a Web Developer (Back-End). I really enjoy le
 	
 ## 📊 My Github Stats
 
+<p align="center">
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shihab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShihabAhmed09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+<br>
+
 <p>
 	<img alt="Shihab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShihabAhmed09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 	<img alt="shihabict's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShihabAhmed09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
-
-<p align="center">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shihab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShihabAhmed09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
+<br>
 
 <p>		
 	<img alt="shihab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShihabAhmed09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
