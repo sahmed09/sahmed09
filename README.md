@@ -58,7 +58,7 @@
 <br>
 
 	
-## Connect with me:
+## <img height="40" src="https://github.com/ShihabAhmed09/ShihabAhmed09/blob/main/kyubey.gif"/> Connect with me
 <p align="left">
 	<a href = "https://linkedin.com/in/shihab-ahmed-7861b5138/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 	<a href = "https://twitter.com/im_Shihab_Ahmed/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
