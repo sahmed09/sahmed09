@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I'm Shihab from Bangladesh and I'm a Web Developer (Back-End). I really enjoy learning languages and frameworks like Django and Django Rest Framework.
+<p>
+	I'm Shihab from Bangladesh and I'm a Web Developer (Back-End). I really enjoy learning languages and frameworks like Django and Django Rest Framework.
+<p>
 <br><br>
 
 <p>
