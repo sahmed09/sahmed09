@@ -54,7 +54,17 @@
 <p>		
 	<img alt="shihab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShihabAhmed09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 </p> 
+<br>
 
+	
+## Connect with me:
+<p align="left">
+	<a href = "https://linkedin.com/in/shihab-ahmed-7861b5138/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+	<a href = "https://twitter.com/im_Shihab_Ahmed/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+	<a href = "https://www.instagram.com/shihab_ahmed09/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+	<a href = "https://www.facebook.com/ShihabAhmedApu/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+</p>
+<br>
 	
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter" class="me-2">
