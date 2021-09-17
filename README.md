@@ -69,6 +69,8 @@
 	
 ## ❤ Views and Followers
 
+	
+<a href="https://github.com/ShihabAhmed09/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/ShihabAhmed09/awesome-github-profile-readme" alt="Stars Badge"/></a>
 <a href="https://github.com/ShihabAhmed09/github-profile-views-counter" class="me-2">
     <img src="https://komarev.com/ghpvc/?username=ShihabAhmed09">
 </a>
