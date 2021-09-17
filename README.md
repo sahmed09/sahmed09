@@ -22,7 +22,6 @@
 <p>
 <br><br>
 	
-	
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -37,7 +36,7 @@
 	<img src="https://img.icons8.com/color/48/000000/css3.png"/>
 	<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </p>
-<br><br>
+<br>
 	
 ## 📊 My Github Stats
 
