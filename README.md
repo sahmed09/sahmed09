@@ -10,7 +10,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a Junior Back-End Developer.
+<!-- - 🔭 I’m currently working as a Junior Back-End Developer.-->
 
 - 🌱 I’m currently learning Django Rest Framework.
 
