@@ -6,7 +6,7 @@
 <br>
 
 <p>
-<img align="right" alt="GIF" src="https://github.com/ShihabAhmed09/ShihabAhmed09/blob/main/code.gif?raw=true" width="400" height="280"/>
+<img align="right" alt="GIF" src="https://github.com/sahmed09/sahmed09/blob/main/code.gif?raw=true" width="400" height="280"/>
 
 ## 🙋‍♂️ About Me
 
@@ -42,23 +42,23 @@
 
 <br>
 <p align="center">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shihab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ShihabAhmed09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shihab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahmed09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 <br>
 
 <p>
-	<img alt="Shihab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ShihabAhmed09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-	<img alt="shihabict's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShihabAhmed09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+	<img alt="Shihab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahmed09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+	<img alt="shihabict's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmed09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
 <br>
 
 <p>		
-	<img alt="shihab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ShihabAhmed09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+	<img alt="shihab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sahmed09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 </p> 
 <br>
 
 	
-## <img height="40" src="https://github.com/ShihabAhmed09/ShihabAhmed09/blob/main/kyubey.gif"/> Connect with me
+## <img height="40" src="https://github.com/sahmed09/sahmed09/blob/main/kyubey.gif"/> Connect with me
 <p align="left">
 	<a href = "https://linkedin.com/in/shihab-ahmed-7861b5138/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 	<a href = "https://twitter.com/im_Shihab_Ahmed/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
@@ -69,4 +69,4 @@
 	
 ## ❤ Followers
 
-<a href="https://github.com/ShihabAhmed09?tab=followers"><img src="https://img.shields.io/github/followers/ShihabAhmed09?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/sahmed09?tab=followers"><img src="https://img.shields.io/github/followers/sahmed09?label=Followers&style=social" alt="GitHub Badge"></a>
