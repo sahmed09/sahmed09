@@ -23,6 +23,25 @@
 
 <br><br> -->
 	
+## 📊 My Stats
+
+<br>
+<p align="center">
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shihab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahmed09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+<br>
+
+<p>
+	<img alt="Shihab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahmed09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
+	<img alt="shihabict's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmed09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+</p>
+<br>
+
+<!-- <p>		
+	<img alt="shihab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sahmed09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
+</p>
+<br> --> 
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
@@ -38,25 +57,6 @@
 	<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 </p>
 <br>
-	
-## 📊 My Stats
-
-<br>
-<p>
-	<img alt="Shihab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahmed09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
-	<img alt="shihabict's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmed09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</p>
-<br>
-
-<p align="center">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shihab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahmed09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
-<br>
-
-<!-- <p>		
-	<img alt="shihab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sahmed09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-</p>
-<br> --> 
 
 	
 ## <img height="40" src="https://github.com/sahmed09/sahmed09/blob/main/kyubey.gif"/> Connect with me
