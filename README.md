@@ -1,18 +1,18 @@
 # Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
+<!-- <p>
+	I'm Shihab Ahmed. I'm a PhD student at Towson University.
 <p>
-	I'm Shihab from Bangladesh and I'm a Web Developer (Back-End). I really enjoy learning languages and frameworks like Django and Django Rest Framework.
-<p>
-<br>
+<br> -->
 
 <p>
-<img align="right" alt="GIF" src="https://github.com/sahmed09/sahmed09/blob/main/code.gif?raw=true" width="400" height="280"/>
+<img align="right" alt="GIF" src="https://github.com/sahmed09/sahmed09/blob/main/code.gif?raw=true" width="400" height="250"/>
 
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working as a Junior Back-End Developer.-->
 
-- 🌱 I’m currently learning Django Rest Framework.
+- 🌱 I’m currently doing my PhD in IT at Towson University.
 
 - 💬 Ask me anything you want to know about myself.
 
@@ -52,17 +52,17 @@
 </p>
 <br>
 
-<p>		
+<!-- <p>		
 	<img alt="shihab's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sahmed09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-</p> 
-<br>
+</p>
+<br> --> 
 
 	
 ## <img height="40" src="https://github.com/sahmed09/sahmed09/blob/main/kyubey.gif"/> Connect with me
 <p align="left">
-	<a href = "https://linkedin.com/in/shihab-ahmed-7861b5138/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+	<a href = "https://linkedin.com/in/sahmed09/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 	<a href = "https://twitter.com/im_Shihab_Ahmed/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-	<a href = "https://www.instagram.com/shihab_ahmed09/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+	<a href = "https://www.instagram.com/shihabahmed001/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 	<a href = "https://www.facebook.com/ShihabAhmedApu/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 </p>
 <br>
