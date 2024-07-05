@@ -1,13 +1,15 @@
+<p align="center">
 # Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
+</p>
 
 <!-- <p>
 	I'm Shihab Ahmed. I'm a PhD student at Towson University.
 <p>
-<br> -->
+<br> 
+
+<img align="right" alt="GIF" src="https://github.com/sahmed09/sahmed09/blob/main/code.gif?raw=true" width="400" height="250"/>  -->
 
 <p>
-<img align="right" alt="GIF" src="https://github.com/sahmed09/sahmed09/blob/main/code.gif?raw=true" width="400" height="250"/>
-
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working as a Junior Back-End Developer.-->
