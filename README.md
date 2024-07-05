@@ -1,19 +1,19 @@
-
+<!-- 
 # <p align="center"> Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 </p>
 
-<!-- <p>
+<p>
 	I'm Shihab Ahmed. I'm a PhD student at Towson University.
 </p>
 <br> 
 
 <img align="right" alt="GIF" src="https://github.com/sahmed09/sahmed09/blob/main/code.gif?raw=true" width="400" height="250"/>  -->
 
-## 🙋‍♂️ About Me
+<!-- ## 🙋‍♂️ About Me -->
 
 <!-- - 🔭 I’m currently working as a Junior Back-End Developer.-->
 
-- 🌱 I’m currently doing my PhD in IT at Towson University.
+<!-- - 🌱 I’m currently doing my PhD in IT at Towson University.
 
 - 💬 Ask me anything you want to know about myself.
 
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact: I don't know how to swim.
 
-<br><br>
+<br><br> -->
 	
 ## 🚀 Languages and Tools:
 
@@ -39,17 +39,17 @@
 </p>
 <br>
 	
-## 📊 My Github Stats
+## 📊 My Stats
 
 <br>
-<p align="center">
-	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shihab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahmed09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
-<br>
-
 <p>
 	<img alt="Shihab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sahmed09&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 	<img alt="shihabict's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmed09&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+</p>
+<br>
+
+<p align="center">
+	<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shihab's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahmed09&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 <br>
 
