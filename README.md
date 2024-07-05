@@ -4,12 +4,11 @@
 
 <!-- <p>
 	I'm Shihab Ahmed. I'm a PhD student at Towson University.
-<p>
+</p>
 <br> 
 
 <img align="right" alt="GIF" src="https://github.com/sahmed09/sahmed09/blob/main/code.gif?raw=true" width="400" height="250"/>  -->
 
-<p>
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working as a Junior Back-End Developer.-->
@@ -21,7 +20,7 @@
 - 📫 How to reach me: **shihab.ict.cou@gmail.com**
 
 - ⚡ Fun fact: I don't know how to swim.
-<p>
+
 <br><br>
 	
 ## 🚀 Languages and Tools:
